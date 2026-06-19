@@ -8,9 +8,13 @@ Entirely written in Python (Pygame for UI)
 How to setup :
 On line 87, change the variable's value to your API key (in string value)
 
-How to get API key :
+# How to get API key :
 Open google cloud console and create a new project
+
 Select your project and head to "APIs & Services" in Quick Access (bottom part of the page)
+
 Once you opened the API Library, search for "Youtube Data API v3" then click on "Enable"
+
 Head to "Credentials" page then click on "Create Credentials" then "API Key"
+
 Copy and paste your API key into the variable in line 87
