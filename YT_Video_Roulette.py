@@ -84,7 +84,7 @@ def FetchHistoryData():
 #declare variables
 creditTextPos = screensize[1]
 
-kunci = "ADD API KEY HERE" #"AIzaSyCdRjOEXQMQREfGOk3_E7c59vfSYduXMgA" Use this API key if you don't have any
+kunci = "ADD API KEY HERE" #Guide on creating API key is written in README.md
 page = "start"
 arrowPos = 200
 videoID = ""
