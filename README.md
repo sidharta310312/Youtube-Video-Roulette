@@ -6,9 +6,9 @@ Drive D is required to record videos you've gotten from this program (Without Dr
 Entirely written in Python (Pygame for UI)
 
 How to setup :
-On line 87, change the variable's value to your API key (in string value)
+On line 92, change the variable's value to your API key (in string value)
 
-# How to get API key :
+## How to get API key :
 Open google cloud console and create a new project
 
 Select your project and head to "APIs & Services" in Quick Access (bottom part of the page)
