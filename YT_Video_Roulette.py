@@ -1,3 +1,8 @@
+#YOUTUBE VIDEO ROULETTE
+#CREATED BY SIDHARTA310312 ON GITHUB.COM
+#FEEL FREE TO REUSE AND EDIT THIS PROJECT
+#CHECK README.MD FOR GUIDE ON HOW TO USE THIS CODE
+
 import pygame
 import sys, os, json
 import time
@@ -333,7 +338,7 @@ while running:
 
         pygame.display.set_caption("Youtube Videos Roulette")
         MakeText("YT VIDEO ROULETTE", 50, green, (centerPos[0], centerPos[1] - 200), False) #make heading text
-        MakeText("Made by Vino [Version 1]", 20, yellow, (centerPos[0], centerPos[1] - creditTextPos), False)
+        MakeText("Made by sidharta310312 on GitHub", 20, yellow, (centerPos[0], centerPos[1] - creditTextPos), False)
         if creditTextPos > 150:
             creditTextPos -= creditTextPos/75
         
